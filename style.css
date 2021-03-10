@@ -1,0 +1,58 @@
+body {
+    background-color: #d0af84;
+}
+
+.first-heading {
+    
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    background-color:#3a6351;
+    justify-content: center;
+    padding: 10px;
+  }
+  .cp {
+      margin-left: 10px;
+      
+  }
+
+  .cp-img {
+      border-radius: 50%;
+  }
+
+
+ .brand {
+     text-decoration: none;
+     color: black;
+     font-size: 32px;
+ }
+
+.nav {
+    text-decoration: none;
+    float: right;
+    padding: 5px;
+}
+.aboutMe {
+    text-align: center;
+    background-color: #cee6b4;
+}
+.waris {
+    border-radius: 50%;
+}
+
+.contact {
+    text-align: center;
+    background-color: #693c72;
+}
+
+.link {
+    text-decoration: none;
+    display: block;
+}
+
+.project {
+    background-color: #f48b29;
+    text-align: center;
+}
